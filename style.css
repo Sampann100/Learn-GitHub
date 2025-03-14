@@ -1,0 +1,15 @@
+*{
+  background-color: pink;
+}
+
+.title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: orange;
+  background-color: purple;
+  border: 2px double black;
+  text-decoration: underline;
+  font-family: sans-serif;
+  opacity: 80%;
+}
